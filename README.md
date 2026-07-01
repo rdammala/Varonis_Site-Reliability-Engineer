@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Site Reliability Engineer opportunities.
 
-**Live:** https://rdammala.github.io/Varonis_Site-Reliability-Engineer/
+**Live:** https://rdammala-org.github.io/Varonis_Site-Reliability-Engineer/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
